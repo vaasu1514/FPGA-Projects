@@ -69,7 +69,4 @@ The implementation focuses on **reliable hardware interfacing**, including clock
 - Modular Verilog design suitable for extension
 - Compatible with Basys-3 hardware constraints
 
----
-
-## File Structure
 
